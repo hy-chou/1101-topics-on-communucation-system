@@ -1,0 +1,47 @@
+Value Char Occurrences Fraction
+  0              331   0.040405
+  1              343   0.041870
+  2              252   0.030762
+  3              245   0.029907
+  4              309   0.037720
+  5              280   0.034180
+  6              258   0.031494
+  7              252   0.030762
+  8              317   0.038696
+  9              357   0.043579
+ 10              271   0.033081
+ 11              226   0.027588
+ 12              271   0.033081
+ 13              283   0.034546
+ 14              243   0.029663
+ 15              227   0.027710
+ 16              268   0.032715
+ 17              259   0.031616
+ 18              214   0.026123
+ 19              172   0.020996
+ 20              229   0.027954
+ 21              262   0.031982
+ 22              214   0.026123
+ 23              204   0.024902
+ 24              267   0.032593
+ 25              286   0.034912
+ 26              235   0.028687
+ 27              203   0.024780
+ 28              272   0.033203
+ 29              234   0.028564
+ 30              220   0.026855
+ 31              188   0.022949
+
+Total:          8192   1.000000
+
+Entropy = 4.979968 bits per byte.
+
+Optimum compression would reduce the size
+of this 8192 byte file by 37 percent.
+
+Chi square distribution for 8192 samples is 59184.12, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 14.5856 (127.5 = random).
+Monte Carlo value for Pi is 4.000000000 (error 27.32 percent).
+Serial correlation coefficient is -0.005920 (totally uncorrelated = 0.0).
